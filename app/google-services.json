@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682520028186",
+    "project_id": "cutm-5fb5f",
+    "storage_bucket": "cutm-5fb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682520028186:android:56e0a17228e26d785b1da3",
+        "android_client_info": {
+          "package_name": "com.example.cutm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682520028186-u3sibhdpi7qjsbklqejh6injgq4eq04a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGoN9LIfF3c67fFKU8vKOSi5hU-bzzzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682520028186-u3sibhdpi7qjsbklqejh6injgq4eq04a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
